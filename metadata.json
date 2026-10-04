@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle Infinite - Choose Your Own Adventure Engine",
+  "description": "An infinite generative text-adventure engine with real-time story branching, consistent-style AI imagery with 1K/2K/4K resolution, dynamic inventory and quest tracking, and multi-turn DM chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
